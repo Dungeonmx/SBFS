@@ -1,7 +1,7 @@
 # SBFS
 Simulador de Biblioteca Familiar de Steam
 
-Ejecucion:
+Ejecución:
 ```sh
 python3 server.py
 ```
